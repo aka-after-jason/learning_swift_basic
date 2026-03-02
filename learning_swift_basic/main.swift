@@ -7,4 +7,5 @@
 
 import Foundation
 
-test()
+//test()
+test_打印()
