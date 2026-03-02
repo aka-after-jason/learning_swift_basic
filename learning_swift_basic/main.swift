@@ -8,4 +8,6 @@
 import Foundation
 
 //test()
-test_打印()
+//test_打印()
+
+test_注释()
